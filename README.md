@@ -1,5 +1,8 @@
 # GPT Watermark Remover
 
+[![Website](https://img.shields.io/badge/Website-gpt--watermark--remover.com-blue)](https://gpt-watermark-remover.com)
+
+
 Website: https://gpt-watermark-remover.com
 
 ## What It Does
